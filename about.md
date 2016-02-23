@@ -36,8 +36,7 @@ Movies were selected for inclusion if they had a known length and had been rated
 
 **mpaa** - MPAA rating.
 
-action, animation, comedy, drama, documentary, romance, short. Binary variables representing if movie was classified as belonging to that genre.
+**Action, Animation, Comedy, Drama, Documentary, Romance, Short** - Binary variables representing if movie was classified as belonging to that genre.
 
-**References**
-
+**References**  
 http://had.co.nz/data/movies/
