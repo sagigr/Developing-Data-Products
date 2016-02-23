@@ -20,24 +20,24 @@ Details
 
 Movies were selected for inclusion if they had a known length and had been rated by at least one imdb user. The data set contains the following fields:
 
-title. Title of the movie.
+**title** - Title of the movie.
 
-year. Year of release.
+**year** - Year of release.
 
-budget. Total budget (if known) in US dollars
+**budget** - Total budget (if known) in US dollars
 
-length. Length in minutes.
+**length** - Length in minutes.
 
-rating. Average IMDB user rating.
+**rating** - Average IMDB user rating.
 
-votes. Number of IMDB users who rated this movie.
+**votes** - Number of IMDB users who rated this movie.
 
-r1-10. Multiplying by ten gives percentile (to nearest 10%) of users who rated this movie a 1.
+**r1-10** - Multiplying by ten gives percentile (to nearest 10%) of users who rated this movie a 1.
 
-mpaa. MPAA rating.
+**mpaa** - MPAA rating.
 
 action, animation, comedy, drama, documentary, romance, short. Binary variables representing if movie was classified as belonging to that genre.
 
-References
+**References**
 
 http://had.co.nz/data/movies/
