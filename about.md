@@ -1,13 +1,9 @@
 ## IMDb Movies Data Explorer
 
-This Shiny App is for searching and visulizating Movies data set information from year 1893 to 2005.
+This Shiny App is for searching through the Movies data set information from year 1893 to 2005.
 The total number of set records is 10691 and that of theme records is 104.
 The dataset is from [Rebrickable.com](http://rebrickable.com/) that contains the basic information of each set (set id, year, number of pieces, theme, set name).  
 
-Data Source: http://rebrickable.com/downloads  
-**Note**: Since I didn't use the API to collect data, the current data might not be 100% accurate.  
-Date updated: 01/04/2016
-  
 Movie information and user ratings from IMDB.com.
 
 Description
