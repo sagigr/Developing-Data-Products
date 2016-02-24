@@ -1,6 +1,5 @@
 library(shiny)
 library(dplyr)
-require(movies.table)
 library(ggplot2movies)
 # Shiny server
 shinyServer(

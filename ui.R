@@ -6,7 +6,7 @@
 #
 
 library(shiny)
-
+require(markdown)
 shinyUI(
   fluidPage(
     navbarPage("IMDb Movies Data Explorer", 
